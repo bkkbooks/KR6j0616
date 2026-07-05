@@ -28,9 +28,10 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6j0616_000.yaml, hash: 'sha256:8ef4a6bafcaca28f682cf749e236091ab468a9f6a8bc8a85de6adbf47ed530cf'}
-  - {seq: 1, filename: KR6j0616_001.yaml, hash: 'sha256:49de9793e85dafed02ac7214132831b718fdf94b8a5e39e1179187955ef364f9'}
+  - {seq: 1, filename: KR6j0616_001.yaml, hash: 'sha256:3c959d949d21c569dcca62441fdc7f8bb2d1958d4a893f01326182c1480827c0'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR6j0616_001.markers.yaml, hash: 'sha256:6e32c3c1b98acb259a11aae35b3a586e0d04796290fda119493dc0dbcf141c3e'}
+  - {seq: 0, role: markers, filename: assets/KR6j0616_000.markers.yaml, hash: 'sha256:646fdaf3cc28fb8ab6e33333e90256801a3888cbbb445e0f0ec5faf872839e3e'}
+  - {seq: 1, role: markers, filename: assets/KR6j0616_001.markers.yaml, hash: 'sha256:9b1c37287aabc96048677e99a65d83e3ceb50d41b6081159d78c6e21b7669222'}
 table_of_contents:
 - ref:
     seq: 1
@@ -44,7 +45,4 @@ table_of_contents:
     尼經'
   type: juan
   level: 1
-hash: sha256:e693ee6c0d0909bf606532b93f775c6f9883dcfd0f8ad0af366ceefc14102a59
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:e433fee497aa280f0ef2fe72581552d4a427f7e7630bc6e1890deddc2cb4fc0e

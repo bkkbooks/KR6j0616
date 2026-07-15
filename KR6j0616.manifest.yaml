@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR6j0616/v1
 canonical_location: https://kanripo.org/bkk/KR6j0616/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 佛說鉢蘭那賒嚩哩大陀羅尼經
   identifiers:
@@ -28,10 +28,10 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6j0616_000.yaml, hash: 'sha256:8ef4a6bafcaca28f682cf749e236091ab468a9f6a8bc8a85de6adbf47ed530cf'}
-  - {seq: 1, filename: KR6j0616_001.yaml, hash: 'sha256:3c959d949d21c569dcca62441fdc7f8bb2d1958d4a893f01326182c1480827c0'}
+  - {seq: 1, filename: KR6j0616_001.yaml, hash: 'sha256:60115af0fafcd1be899dc48414b93d73a97908e6ae2c1ef1636c33edae44524c'}
   markers:
   - {seq: 0, role: markers, filename: assets/KR6j0616_000.markers.yaml, hash: 'sha256:646fdaf3cc28fb8ab6e33333e90256801a3888cbbb445e0f0ec5faf872839e3e'}
-  - {seq: 1, role: markers, filename: assets/KR6j0616_001.markers.yaml, hash: 'sha256:9b1c37287aabc96048677e99a65d83e3ceb50d41b6081159d78c6e21b7669222'}
+  - {seq: 1, role: markers, filename: assets/KR6j0616_001.markers.yaml, hash: 'sha256:d32c860872fd8327a16b5c70462b6d312953689138a54048c606e2fa2983aaaa'}
 table_of_contents:
 - ref:
     seq: 1
@@ -45,4 +45,7 @@ table_of_contents:
     尼經'
   type: juan
   level: 1
-hash: sha256:e433fee497aa280f0ef2fe72581552d4a427f7e7630bc6e1890deddc2cb4fc0e
+hash: sha256:a5c1b10a286f194ab573f9ae2bfde8a25e4d28da8bf889c4700e7e6c5ac01404
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
